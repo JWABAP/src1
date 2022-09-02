@@ -1,0 +1,5 @@
+"Name: \FU:BC425_15_CALC_PRICE\SE:END\EI
+ENHANCEMENT 0 ZBC425_FMCODE_IMP_INH_A15.
+*
+  ex_disprice = ex_fullprice - ex_fullprice * ( IM_DISCOUNT / 100 ).
+ENDENHANCEMENT.

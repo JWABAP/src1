@@ -1,0 +1,2 @@
+sap.ui.define(["sap/ui/core/UIComponent","sap/ui/Device","sync/zca15navfrom/model/models"],function(e,t,i){"use strict";return e.extend("sync.zca15navfrom.Component",{metadata:{manifest:"json"},init:function(){e.prototype.init.apply(this,arguments);this.+
+getRouter().initialize();this.setModel(i.createDeviceModel(),"device")}})});                                                                                                                                                                                   

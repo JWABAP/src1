@@ -1,0 +1,1 @@
+sap.ui.define(["sync/zca15navto/test/unit/controller/View1.controller"],function(){"use strict"});                                                                                                                                                             
